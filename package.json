@@ -1,0 +1,17 @@
+{
+  "name": "pomodoro-desktop",
+  "version": "1.0.0",
+  "description": "Desktop version of the pomodoro-collettivo app",
+  "main": "index.js",
+  "dependencies": {
+    "nw-builder": "^2.0.2"
+  },
+  "devDependencies": {
+    "nw-builder": "^2.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ackzell",
+  "license": "ISC"
+}

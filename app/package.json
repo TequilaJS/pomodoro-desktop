@@ -1,0 +1,19 @@
+{
+  "name": "pomodoro-desktop",
+  "main": "main.html",
+
+  "version": "0.0.1",
+  "window": {
+    "title": "Pomodoro Desktop",
+    "toolbar": false,
+    "icon": "src/img/icon.png",
+    "position": "mouse",
+    "frame": false,
+    "min_width": 600,
+    "min_height": 500
+    },
+
+  "devDependencies": {
+    "nw-dev": "^1.3.1"
+  }
+}

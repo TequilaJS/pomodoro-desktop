@@ -1,0 +1,12 @@
+1. Download a release for the development platform
+2. Unpack the contents.
+3. Create a main html file (could be index.html)
+4. Create a package.json file (app manifest with all the configs)
+5. npm install nw-dev --save-dev
+6. Tweak away the package.json!
+7. bower install materialize
+FORK HERE
+8a. Install AngularJS, and create a directive to act as the title bar.
+8b. Use nothing but jQuery (it is already added) to build the title bar. 
+
+9. Generate a custom scrollbar with: http://mikethedj4.github.io/Webkit-Scrollbar-Generator/
